@@ -4,12 +4,12 @@ I'm currently learning: Cybersecurity and Python.
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1].
+You can find me on:
 
-<!-- Icons -->
+<div align="center">
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Cyberi_8
+<a href="https://twitter.com/Cyberi_8" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+ 
+</div>  
